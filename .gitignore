@@ -3,3 +3,4 @@
 .idea/dataSources.ids
 .idea/dataSources.xml
 *.pyc
+*.DS_Store
